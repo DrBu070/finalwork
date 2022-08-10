@@ -17,11 +17,11 @@
 ## Содержание каталога
 
 * Репозиторий Git
-* Programm - Папка с программой на языке C#
+* Program - Папка с программой на языке C#
 * .gitignore - Сгенерированный dotnet
 * Program.cs - Код к задаче
 * Readme.md - Описание
-* Diagram.drawio.png - блок-схема
+* finalworkdiagrama.png - блок-схема
 ## Использование для проверки
 ---
 >* Ссылка на репозиторий в [GitHub](https://github.com/DrBu070/finalwork)

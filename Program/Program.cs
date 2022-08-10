@@ -1,4 +1,7 @@
-﻿
+﻿Console.WriteLine("Итоговая проверочная работа ");
+Console.WriteLine(".......................................................... ");
+Console.WriteLine();
+
 string[] arrayOfStrings = new string[]  {};
 int n = InputNumbers("Введите количество строк в массиве: ");
 
